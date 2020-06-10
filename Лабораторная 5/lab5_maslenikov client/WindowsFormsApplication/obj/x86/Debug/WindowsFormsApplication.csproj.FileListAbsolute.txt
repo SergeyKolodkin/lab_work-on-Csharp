@@ -1,0 +1,31 @@
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+D:\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Димка\Desktop\Хлам\флешка\web server client\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Димка\Documents\Visual Studio 2013\Projects\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 5\lab5_maslenikov client\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 5\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 5\lab5_maslenikov client\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb

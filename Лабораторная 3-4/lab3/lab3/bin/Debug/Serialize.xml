@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Storage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <print_list>
+    <Print>
+      <Name>111</Name>
+      <Year>1111</Year>
+      <Count>1111</Count>
+    </Print>
+    <Print>
+      <Name>22</Name>
+      <Year>22</Year>
+      <Count>222</Count>
+    </Print>
+  </print_list>
+  <journal_list>
+    <Journal>
+      <Name>1111</Name>
+      <Year>11</Year>
+      <Count>1</Count>
+      <Periodicity>1</Periodicity>
+      <Subjects>1</Subjects>
+    </Journal>
+    <Journal>
+      <Name>2</Name>
+      <Year>2</Year>
+      <Count>2</Count>
+      <Periodicity>2</Periodicity>
+      <Subjects>2</Subjects>
+    </Journal>
+  </journal_list>
+  <book_list>
+    <Book>
+      <Name>1</Name>
+      <Year>1</Year>
+      <Count>1</Count>
+      <author>1</author>
+      <genre>1</genre>
+      <Author>1</Author>
+      <Genre>1</Genre>
+    </Book>
+    <Book>
+      <Name>2</Name>
+      <Year>2</Year>
+      <Count>0</Count>
+      <author />
+      <genre />
+      <Author />
+      <Genre />
+    </Book>
+  </book_list>
+  <textbook_list>
+    <Textbook>
+      <Name>3</Name>
+      <Year>3</Year>
+      <Count>3</Count>
+      <grade>3</grade>
+      <subject>3</subject>
+      <Grade>3</Grade>
+      <Subject>3</Subject>
+    </Textbook>
+    <Textbook>
+      <Name>4</Name>
+      <Year>4</Year>
+      <Count>4</Count>
+      <grade>4</grade>
+      <subject>4</subject>
+      <Grade>4</Grade>
+      <Subject>4</Subject>
+    </Textbook>
+  </textbook_list>
+</Storage>

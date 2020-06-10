@@ -1,0 +1,8 @@
+M:\Documents\lab3_maslo\lab3_maslo\bin\Debug\lab3_maslo.exe
+M:\Documents\lab3_maslo\lab3_maslo\bin\Debug\lab3_maslo.pdb
+M:\Documents\lab3_maslo\lab3_maslo\obj\Debug\lab3_maslo.Properties.Resources.resources
+M:\Documents\lab3_maslo\lab3_maslo\obj\Debug\lab3_maslo.csproj.GenerateResource.Cache
+M:\Documents\lab3_maslo\lab3_maslo\obj\Debug\lab3_maslo.exe
+M:\Documents\lab3_maslo\lab3_maslo\obj\Debug\lab3_maslo.pdb
+M:\Documents\lab3_maslo\lab3_maslo\bin\Debug\lab3_maslo.exe.config
+M:\Documents\lab3_maslo\lab3_maslo\obj\Debug\lab3.Form1.resources

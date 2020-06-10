@@ -1,0 +1,43 @@
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.exe
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.pdb
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.dll
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.pdb
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+O:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+O:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+I:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+I:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+I:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.exe
+I:\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.pdb
+I:\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.dll
+I:\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.pdb
+N:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+N:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+N:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.csprojResolveAssemblyReference.cache
+N:\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.exe
+N:\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.pdb
+N:\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.dll
+N:\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.pdb
+J:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+J:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+J:\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.exe
+J:\qweqweqweqeq\qweqweqweqeq\bin\Debug\qweqweqweqeq.pdb
+J:\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.dll
+J:\qweqweqweqeq\qweqweqweqeq\bin\Debug\example.pdb
+J:\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Димка\Desktop\флешка\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+C:\Users\Димка\Desktop\флешка\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+C:\Users\Димка\Desktop\Хлам\флешка\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+C:\Users\Димка\Desktop\Хлам\флешка\qweqweqweqeq\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 1-2\лаба12\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 1-2\лаба12\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 1-2\лаба12\qweqweqweqeq\bin\Debug\qweqweqweqeq.exe
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 1-2\лаба12\qweqweqweqeq\bin\Debug\qweqweqweqeq.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 1-2\лаба12\qweqweqweqeq\bin\Debug\example.dll
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 1-2\лаба12\qweqweqweqeq\bin\Debug\example.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 1-2\лаба12\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.csprojResolveAssemblyReference.cache
+N:\Documents\University\ФИТУ\3 семестр\Программирование\Лабораторная 1-2\лаба12\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.exe
+N:\Documents\University\ФИТУ\3 семестр\Программирование\Лабораторная 1-2\лаба12\qweqweqweqeq\obj\x86\Debug\qweqweqweqeq.pdb

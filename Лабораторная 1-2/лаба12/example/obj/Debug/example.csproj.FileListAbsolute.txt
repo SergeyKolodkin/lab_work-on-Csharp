@@ -1,0 +1,20 @@
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\example\bin\Debug\example.dll
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\example\bin\Debug\example.pdb
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\example\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\example\obj\Debug\example.dll
+c:\documents and settings\111\my documents\visual studio 2010\Projects\qweqweqweqeq\example\obj\Debug\example.pdb
+I:\qweqweqweqeq\example\bin\Debug\example.dll
+I:\qweqweqweqeq\example\bin\Debug\example.pdb
+I:\qweqweqweqeq\example\obj\Debug\ResolveAssemblyReference.cache
+I:\qweqweqweqeq\example\obj\Debug\example.dll
+I:\qweqweqweqeq\example\obj\Debug\example.pdb
+N:\qweqweqweqeq\example\bin\Debug\example.dll
+N:\qweqweqweqeq\example\bin\Debug\example.pdb
+N:\qweqweqweqeq\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+N:\qweqweqweqeq\example\obj\Debug\example.dll
+N:\qweqweqweqeq\example\obj\Debug\example.pdb
+J:\qweqweqweqeq\example\bin\Debug\example.dll
+J:\qweqweqweqeq\example\bin\Debug\example.pdb
+J:\qweqweqweqeq\example\obj\Debug\ResolveAssemblyReference.cache
+J:\qweqweqweqeq\example\obj\Debug\example.dll
+J:\qweqweqweqeq\example\obj\Debug\example.pdb

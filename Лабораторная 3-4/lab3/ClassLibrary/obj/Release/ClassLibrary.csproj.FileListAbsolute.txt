@@ -1,0 +1,25 @@
+M:\Documents\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.dll
+M:\Documents\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.pdb
+M:\Documents\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+M:\Documents\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.dll
+M:\Documents\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.pdb
+F:\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.dll
+F:\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.pdb
+F:\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+F:\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.dll
+F:\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.pdb
+N:\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.dll
+N:\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.pdb
+N:\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+N:\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.dll
+N:\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.dll
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3_maslo\ClassLibrary\bin\Release\ClassLibrary.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.dll
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3_maslo\ClassLibrary\obj\Release\ClassLibrary.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3\ClassLibrary\bin\Release\ClassLibrary.dll
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3\ClassLibrary\bin\Release\ClassLibrary.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3\ClassLibrary\obj\Release\ClassLibrary.dll
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3\ClassLibrary\obj\Release\ClassLibrary.pdb
+M:\Documents\University\ФИТУ\3 семестр\Программирование\Лабараторная 3-4\lab3\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
