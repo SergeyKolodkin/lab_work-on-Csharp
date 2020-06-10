@@ -1,0 +1,6 @@
+c:\users\димка\documents\visual studio 2013\Projects\lab5_maslenikov_server\lab5_maslenikov_server\bin\lab5_maslenikov_server.dll.config
+c:\users\димка\documents\visual studio 2013\Projects\lab5_maslenikov_server\lab5_maslenikov_server\bin\lab5_maslenikov_server.dll
+c:\users\димка\documents\visual studio 2013\Projects\lab5_maslenikov_server\lab5_maslenikov_server\bin\lab5_maslenikov_server.pdb
+c:\users\димка\documents\visual studio 2013\Projects\lab5_maslenikov_server\lab5_maslenikov_server\obj\Debug\lab5_maslenikov_server.csprojResolveAssemblyReference.cache
+c:\users\димка\documents\visual studio 2013\Projects\lab5_maslenikov_server\lab5_maslenikov_server\obj\Debug\lab5_maslenikov_server.dll
+c:\users\димка\documents\visual studio 2013\Projects\lab5_maslenikov_server\lab5_maslenikov_server\obj\Debug\lab5_maslenikov_server.pdb
